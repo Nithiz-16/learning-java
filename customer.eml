@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" jdk="openjdk-20" jdk_type="JavaSDK">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="Helidon" value="project"/>
+		<level name="helidon-common-2.0.0-M3" value="project"/>
+	</levels>
+</component>

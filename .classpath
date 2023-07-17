@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/openjdk-20"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Helidon"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/helidon-common-2.0.0-M3"/>
+	<classpathentry exported="true" kind="var" path="MAVEN_REPOSITORY/org/jetbrains/annotations/24.0.0/annotations-24.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
